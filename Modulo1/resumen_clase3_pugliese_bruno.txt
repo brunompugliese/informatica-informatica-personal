@@ -1,0 +1,16 @@
+En esta clase profundizamos aún más lo visto en la clase anterior, en Git, su uso y sus comandos, pero más importante en los pasos a seguir para crear un repositorio local y mantenerlo actualizado mediante commits.
+
+Para crear un repo local y mantenerlo actualizado:
+	git init = crea el repositorio
+	git status = nos indica que archivos están untracked
+	git add = agregamos los archivos al repositorio. El argumento "." agrega todos los archivos juntos
+	git commit -m "explico que hice" = con el commit "cerramos una etapa" a la que podemos volver posteriormente si lo necesitamos
+
+Otros comandos muy útiles son:
+	• git checkout -- archivo = recupera archivos del commit anterior
+	• git branch nombre_branch = crea una nueva branch
+	• git branch -a = lista las branches
+	• git merge = mergea las branches con la branch master
+	• git merge nombre_rama = mergea los cambios de la branch indicada con la branch en la que estoy parado
+	• git checkout nombre_branch = salta a la branch indicada
+	• git push -u nombre_rama = pushea y sincroniza la rama indicada con github

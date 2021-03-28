@@ -1,0 +1,1 @@
+En esta clase se dió la bienvenida a la materia. Tuvimos una vista muy general sobre varios temas como la creacion de las computadoras y su evolución, los distintos tipos de interfaces de usuario, servidores, hardware, software y firewalls

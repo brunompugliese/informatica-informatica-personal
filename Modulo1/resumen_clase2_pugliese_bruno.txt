@@ -1,0 +1,21 @@
+En esta clase profundizamos un poco más en la terminal de comandos, también llamada CLI o consola.
+Se estableció que vamos a utilizar la consola de Git Bash y entonces vimos algunos comandos para poder manejarnos a través del sistema usando sólo dicha terminal.
+Hay que saber diferenciar entre argumentos y flags, lo que recibe el comando cd es un argumento y lo que recibe rm luego del guión medio es un flag
+
+Tenemos comandos de tipo:
+	Informativo:
+		• pwd = muestra la ruta sobre la que estoy parado
+		• cd = para moverse entre directorios
+		• ls = lista directorios y archivos
+	Para carpetas:
+		• mkdir = crear una carpeta
+		• rmdir = borrar una carpeta
+		• rm -r = tambien borra carpetas
+	Para archivos:
+		• gedit = crear y editar archivos de texto
+		• rm = borrar archivos
+	Copiar/mover
+		• cp = copiar archivos en el directorio especificado
+		• cp -r = copiar carpetas
+		• mv nombre_archivo ruta_absoluta = mover un archivo o carpeta al lugar especificado
+		• mv nombre_archivo nombre_nuevo = editar nombre del archivo 
